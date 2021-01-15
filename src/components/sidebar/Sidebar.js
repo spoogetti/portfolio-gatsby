@@ -21,8 +21,6 @@ const Sidebar = () => {
                                 linkedin
                                 github
                                 stackoverflow
-                                freecodecamp
-                                twitter
                             }
                             labels {
                                 tag
