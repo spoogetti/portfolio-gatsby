@@ -2,7 +2,7 @@
 
 module.exports = {
   url: "https://portfolio-gatsby.spoogetti.vercel.app",
-  title: "Romain's Blog",
+  title: "🏡",
   tagline: "Computer science student at Digital Campus Bordeaux",
   copyright: `© ${new Date().getFullYear()} Romain Roubaix, All rights reserved`,
   author: {

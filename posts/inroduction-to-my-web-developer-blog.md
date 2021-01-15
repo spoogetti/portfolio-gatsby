@@ -12,8 +12,5 @@ The base template is taken from
 
 Note: This post is tagged with every possible tags to display them in the sidebar.
 
-
-
-![](../src/images/moi-min.png)
-
-Inline images in markdown supported as well.
+[comment]: <> (![]&#40;../src/images/moi-min.png&#41;)
+[comment]: <> (Inline images in markdown supported as well.)

@@ -5,8 +5,8 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby basic blog template
+  Gatsby blog template
 </h1>
 
-Shamelessly stolen from :
+Taken from :
 [Developer Diary @Gatsby Starter Library](https://www.gatsbyjs.org/starters/willjw3/gatsby-starter-developer-diary/)
