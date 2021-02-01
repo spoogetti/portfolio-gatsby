@@ -10,3 +10,6 @@
 
 Taken from :
 [Developer Diary @Gatsby Starter Library](https://www.gatsbyjs.org/starters/willjw3/gatsby-starter-developer-diary/)
+
+Lancer le serveur local : gatsby develop
+Application déployée sur vercel : https://vercel.com/spoogetti/portfolio-gatsby

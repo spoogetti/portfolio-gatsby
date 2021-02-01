@@ -11,6 +11,3 @@ The base template is taken from
 [Developer Diary by willjw3](https://www.gatsbyjs.com/starters/willjw3/gatsby-starter-developer-diary).<br>  
 
 Note: This post is tagged with every possible tags to display them in the sidebar.
-
-[comment]: <> (![]&#40;../src/images/moi-min.png&#41;)
-[comment]: <> (Inline images in markdown supported as well.)
