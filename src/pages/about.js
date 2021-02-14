@@ -81,7 +81,7 @@ const AboutPage = (props) => {
                             <a href="https://www.16personalities.com/profiles/ab383cd23b3cc"> Link to 16 personalities</a>
                         </p>
                         <p>
-                            TLDR : I'm a ISFJ-T a turbulent defender, a sentinel and my strategy in life should be constant improvement.
+                            TLDR : I'm a ISFJ-T a turbulent defender, a sentinel and my strategy in life should be constant improvement which means basically nothing without explanations.
                         </p>
                         <h2 className="heading">My interests</h2>
                         <div>
@@ -129,8 +129,34 @@ const AboutPage = (props) => {
                             </p>
                         </div>
 
+                        <div>
+                             <span className="text-success d-inline-block" title="blazing">
+                                 <FaCheckCircle size={26} style={{color: "success"}}/>
+                             </span>
+                            <p className="d-inline-block ml-3 w-75 align-top">What I read & what I watch</p>
+                            <p>I'm not very fond of talking about what I read and watch as I hate being part of fandoms that do more harm to the work of the author.</p>
+                            <p>I also often come up with my own opinions which are not very popular so I lose credibility very fast haha (and I mostly don't care about yours).</p>
 
+                            <p>I keep track of the animes and mangas I watch with MyAnimeList (it's almost up-to-date)</p>
+                            <p>You can check out what I watched <a href="https://myanimelist.net/animelist/impperio">here</a> and what I read <a href="https://myanimelist.net/mangalist/impperio">here</a>.</p>
 
+                            <p>I also watch a lot of series and movies, my favorite genres are SF and Psychological horror.</p>
+                            <p>I love to occasionally read self improvement books even if it's hard to find the good ones.</p>
+                        </div>
+
+                        <div>
+                             <span className="text-success d-inline-block" title="blazing">
+                                 <FaCheckCircle size={26} style={{color: "success"}}/>
+                             </span>
+                            <p className="d-inline-block ml-3 w-75 align-top">Sports</p>
+                            <p>
+                                My favorite sport by far is Badminton,
+                                I'm not very competitive overall but I consider that I have pretty decent skills
+                                as I began practicing when I was around 12 years old.
+
+                                I'm in a constant quest to improve my cardio so I began running and jogging at the end of 2020.
+                            </p>
+                        </div>
 
                         {/*<h4>Features</h4>*/}
                         {/*<div>*/}
