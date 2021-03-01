@@ -1,8 +1,8 @@
 ---
 title: 'Introduction To My Web Developer Blog'
-tags: ["react", "vscode", "git", "css", "python", "ruby", "java", "angular", "html", "php", "mongodb", "graphql", "gatsby" ]
+tags: ["rant"]
 published: true
-date: '2018-08-20'
+date: '2021-01-01'
 ---
 
 This is my personal blog template. It'll act as a diary to keep memory of most of the things I do. 

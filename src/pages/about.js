@@ -6,7 +6,7 @@ import {FaCheckCircle} from "react-icons/fa"
 import "./index.css"
 
 import Sidebar from "../components/sidebar/Sidebar"
-import TechTag from "../components/tags/TechTag"
+// import TechTag from "../components/tags/TechTag"
 
 const AboutPage = (props) => {
     const labels = props.data.site.siteMetadata.labels
@@ -40,7 +40,7 @@ const AboutPage = (props) => {
                         <p>
                             I began my college formation at the university of Bordeaux with what we call in France a
                             'Technological University Diploma',
-                            a two-year program of heavy maths and computer science introduction where I grasped every
+                            a two-year program of 'heavy' maths and computer science introduction where I grasped every
                             aspects of computer science, from assembly to web dev through C++ and Ocaml.
                         </p>
                         <p>
@@ -66,7 +66,7 @@ const AboutPage = (props) => {
                             I work there as a full-stack web developer with a small team of 5 very talented colleagues.
                         </p>
                         <p>
-                            I'm a pretty chill yet determined guy and I gather knowledge like a loot hoarder.
+                            I'm a pretty chill yet determined guy.
                             I strive to become a versatile Web Developer to fulfil the projects entrusted to me.
                         </p>
                         <p>
@@ -81,7 +81,7 @@ const AboutPage = (props) => {
                             <a href="https://www.16personalities.com/profiles/ab383cd23b3cc"> Link to 16 personalities</a>
                         </p>
                         <p>
-                            TLDR : I'm a ISFJ-T a turbulent defender, a sentinel and my strategy in life should be constant improvement which means basically nothing without explanations.
+                            TLDR : I'm a ISFJ-T a turbulent defender, a sentinel and my strategy in life should be constant improvement (which means basically nothing without explanations => no TLDR, go read the link).
                         </p>
                         <h2 className="heading">My interests</h2>
                         <div>
@@ -154,7 +154,7 @@ const AboutPage = (props) => {
                                 I'm not very competitive overall but I consider that I have pretty decent skills
                                 as I began practicing when I was around 12 years old.
 
-                                I'm in a constant quest to improve my cardio so I began running and jogging at the end of 2020.
+                                I'm in a constant quest to improve my cardio so I began practicing long distance running at the end of 2020.
                             </p>
                         </div>
 

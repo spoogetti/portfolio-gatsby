@@ -1,6 +1,6 @@
 ---
 title: '2021 Objectives'
-tags: []
+tags: ["rant"]
 published: true
 date: '2021-02-14'
 ---
