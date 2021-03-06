@@ -21,13 +21,11 @@ On the paper it sounds easy, but I spent a lot of time understanding how to dupl
   
 Some videos to have an idea of what I planned to make, but in 2D :  
 
-Armagetron advanced game :   
-
-<iframe width="160px" height="90px" src="https://www.youtube.com/embed/9rYk3056JTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-<br/>  
+Armagetron advanced game :  
+  
+<iframe style="width: 320px; height: 180px" src="https://www.youtube.com/embed/9rYk3056JTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 The scene from Tron :   
 
-<iframe width="16" height="9" src="https://www.youtube.com/embed/SqSuRdkglxM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+<iframe style="width: 320px; height: 180px" src="https://www.youtube.com/embed/SqSuRdkglxM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
